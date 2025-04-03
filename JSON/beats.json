@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Boink",
+    "pitch": "C#4",
+    "pattern": "10000000"
+  },
+  {
+    "name": "Snare",
+    "pitch": "F#4",
+    "pattern": "0010"
+  },
+  {
+    "name": "Dampen",
+    "pitch": "A3",
+    "pattern": "1000"
+  }
+]
